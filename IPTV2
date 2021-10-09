@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,Sky Sports F1 HD
+http://188.93.238.184:8000/live/snet/snet/9721.ts
+#EXTINF:-1,Sky Sports F1(Backup-1)
+http://188.93.238.184:8000/live/snet/snet/9722.ts
