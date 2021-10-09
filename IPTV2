@@ -3,3 +3,7 @@
 http://188.93.238.184:8000/live/snet/snet/9721.ts
 #EXTINF:-1,Sky Sports F1(Backup-1)
 http://188.93.238.184:8000/live/snet/snet/9722.ts
+#EXTINF:-1,Sky Sports F1
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/21987.ts
+#EXTINF:-1,SkySp F1 > HD< (UK)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/18608.ts
