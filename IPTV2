@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,Sky Sports F1 HD
+#EXTINF:-1,A
 http://78.56.221.9:7059/skyspf1
-#EXTINF:-1,Sky Sports F1 HD2
+#EXTINF:-1,B
 http://premium.exabytetv.info/gc/10011000110010110110110010100100101-ExabyteTV/1609/exabytetv.m3u8
