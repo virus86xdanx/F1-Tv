@@ -3,5 +3,9 @@
 http://149.202.215.151:8080/live/home/home/580.ts
 #EXTINF:-1,Sky Sports F1 SD
 http://149.202.215.151:8080/live/home/home/574.ts
-#EXTINF:-1,Sky Sports F1 HD*
+#EXTINF:-1,Sky Sports F1 HD2
 http://149.202.215.151:8080/live/home/home/12239.ts
+#EXTINF:-1,Sky Sports F1 HD3
+https://f1stream.me/sky-sports-f1-stream
+#EXTINF:-1,Sky Sports F1 HD4
+https://hd.crichd.cx/sky-sports-f1-live-streaming-hd-uk-10
