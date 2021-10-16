@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1,A
-http://78.56.221.9:7059/skyspf1
-#EXTINF:-1,B
-http://premium.exabytetv.info/gc/10011000110010110110110010100100101-ExabyteTV/1609/exabytetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Big Brother Brasil 18" tvg-logo="https://i.imgur.com/MI5lMlc.png" group-title="Premiere",Big Brother Brasil 18
-http://rhagf.co:25461/live/c4b3cao/8sz6y03K3T/6226.ts
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ HD" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="Rede Globo",Globo RJ HD
 http://rhagf.co:25461/live/c4b3cao/8sz6y03K3T/170.ts
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="Rede Globo",Globo RJ
